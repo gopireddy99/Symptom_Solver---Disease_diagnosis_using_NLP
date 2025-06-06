@@ -77,7 +77,7 @@ Symptom_Solver---Disease_diagnosis_using_NLP/
 
 
 
-## 💻 Getting Started Locally
+### 💻 Getting Started Locally
 
 ### 1. Clone the repository:
 ```bash
