@@ -83,11 +83,9 @@ Symptom_Solver---Disease_diagnosis_using_NLP/
 git clone https://github.com/gopireddy99/Symptom_Solver---Disease_diagnosis_using_NLP.git
 cd Symptom_Solver---Disease_diagnosis_using_NLP
 pip install -r requirements.txt
-python app.py
+python app.py 
 
---- 
-
-🌟 Future Enhancements
+## 🌟 Future Enhancements
 🌍 Multilingual symptom input support
 
 🤖 Integration with wearable health devices
@@ -95,12 +93,12 @@ python app.py
 💬 Interactive AI chatbot for Q&A
 
 📱 Mobile-friendly UI
---- 
-🙋‍♂️ Author
+
+## Author
 👨‍💻 Nithish Kumar Gopireddy
 📧 Email: gopireddynithishkumar@gmail.com
 🔗 GitHub: gopireddy99
 
-⭐ Support
+## Support
 If you found this project useful, please consider giving it a ⭐ on GitHub!
 
