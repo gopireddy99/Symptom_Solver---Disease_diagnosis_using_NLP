@@ -80,18 +80,12 @@ Symptom_Solver---Disease_diagnosis_using_NLP/
 ### 💻 Getting Started Locally
 
 ### 1. Clone the repository:
-```bash
 git clone https://github.com/gopireddy99/Symptom_Solver---Disease_diagnosis_using_NLP.git
 cd Symptom_Solver---Disease_diagnosis_using_NLP
-
-### 2.Install the dependencies:
 pip install -r requirements.txt
-
-### 3. Run the application:
 python app.py
 
-### 4. Open in your browser:
-http://127.0.0.1:5000
+--- 
 
 🌟 Future Enhancements
 🌍 Multilingual symptom input support
@@ -101,7 +95,7 @@ http://127.0.0.1:5000
 💬 Interactive AI chatbot for Q&A
 
 📱 Mobile-friendly UI
-
+--- 
 🙋‍♂️ Author
 👨‍💻 Nithish Kumar Gopireddy
 📧 Email: gopireddynithishkumar@gmail.com
